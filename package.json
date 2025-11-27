@@ -1,0 +1,53 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.1",
+    "@fortawesome/fontawesome-svg-core": "^6.7.1",
+    "@fortawesome/free-solid-svg-icons": "^6.7.1",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "@lottiefiles/lottie-player": "^2.0.12",
+    "@mdi/font": "^7.4.47",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "apexcharts": "^4.1.0",
+    "autoprefixer": "^10.4.20",
+    "chart.js": "^4.4.7",
+    "deepmerge": "^4.3.1",
+    "lottie-web": "^5.12.2",
+    "material-design-icons-iconfont": "^6.7.0",
+    "nuxt": "^3.15.0",
+    "pdfjs-dist": "^4.9.155",
+    "plyr": "^3.7.8",
+    "postcss": "^8.4.49",
+    "sass": "^1.83.0",
+    "sass-loader": "^16.0.3",
+    "simplebar": "^6.3.0",
+    "swiper": "^11.1.15",
+    "tailwindcss": "^3.4.15",
+    "video.js": "^8.18.1",
+    "videojs-wavesurfer": "^3.10.0",
+    "vue": "^3.5.13",
+    "vue-carousel": "^0.18.0",
+    "vue-chartjs": "^5.3.2",
+    "vue-pdf": "^4.3.0",
+    "vue-router": "^4.5.0",
+    "vue3-apexcharts": "^1.8.0",
+    "vue3-lottie": "^3.3.1",
+    "vue3-pdf-app": "^1.0.3",
+    "vue3-pdfjs": "^0.1.6",
+    "vuetify": "^3.7.5",
+    "wavesurfer.js": "^7.8.11"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.80.3"
+  }
+}
